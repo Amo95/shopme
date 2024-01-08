@@ -11,14 +11,16 @@
 
     <modules>
         <module>shopmeCommon</module>
-        <module>shopmeWebParaent</module>
+        <module>shopmeWebParent</module>
     </modules>
+
     <groupId>com.shopme</groupId>
     <artifactId>shopmeProject</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>shopmeProject</name>
     <description>shopmeProject</description>
     <packaging>pom</packaging>
+
     <properties>
         <java.version>17</java.version>
     </properties>
