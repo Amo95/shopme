@@ -11,7 +11,7 @@
 
     <modules>
         <module>shopmeCommon</module>
-        <module>shopmeWebParaent</module>
+        <module>shopmeWebParent</module>
     </modules>
 
     <groupId>com.shopme</groupId>
